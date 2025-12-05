@@ -204,7 +204,6 @@ Below we report the performance of several unimodal and multimodal baselines eva
 ## File List
 
 - `DeHate.xlsx` — Main data file with video-level and segment-level annotations.
-- `get_bitchute_video.py` — A Python script to download BitChute videos with `video_ids`.
 ---
 
 ## Accessing Videos
