@@ -210,17 +210,13 @@ Below we report the performance of several unimodal and multimodal baselines eva
 ## Accessing Videos
 
 
-Due to copyright and platform restrictions, we’re unable to share the original video files directly. For the public version of the DeHATE dataset, we provide only the video IDs, which can be used to identify and retrieve the videos from TikTok and BitChute.
-To download videos from BitChute, you can use the `get_bitchute_video.py` script. For TikTok, please use the official TikTok API, available at [https://developers.tiktok.com/](https://developers.tiktok.com/).
-Please note that some videos may be removed by the platforms for violating content policies. If you have trouble accessing certain videos or need help, feel free to contact [mmi.lab.uk@gmail.com](mailto:mmi.lab.uk@gmail.com) or [yuchen.zhang@essex.ac.uk](mailto:yuchen.zhang@essex.ac.uk) for support.
+If you would like to access the DeHATE dataset, please complete the following application form:
 
-Run the following script:
+[DeHATE Dataset Application Form](https://forms.office.com/e/hCrAZ4vs2w)
 
-```python get_bitchute_video.py --video_id abc123 --output_dir ./downloads/ ```
+Once your application has been reviewed and accepted, we will send you a download link for the dataset.
 
-This will download the video from https://www.bitchute.com/video/abc123/ and save it into the downloads/ folder with a filename like:
-
-```{Publisher}_{Publish_Date}_{Video_Title}.mp4 ```
+If you have any questions, please contact [yuchen.zhang@essex.ac.uk](mailto:yuchen.zhang@essex.ac.uk).
 
 
 
