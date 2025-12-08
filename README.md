@@ -211,7 +211,7 @@ Below we report the performance of several unimodal and multimodal baselines eva
 
 If you would like to access the DeHATE dataset, please complete the following application form:
 
-[DeHATE Dataset Application Form](https://forms.office.com/e/hCrAZ4vs2w)
+[DeHate Dataset Application Form](https://forms.office.com/e/hCrAZ4vs2w)
 
 Once your application has been reviewed and accepted, we will send you a download link for the dataset.
 
